@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="book.xsd"
+id="b01" genre="fiction">
+
+ <title>The Great Gatsby</title>
+  <author>F. Scott Fitzgerald</author>
+  <year>1925</year>
+  <publisher>
+    <name>Scribner</name>
+    <country>USA</country>
+    <founded>1846</founded>
+  </publisher>
+</book>
